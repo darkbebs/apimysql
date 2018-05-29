@@ -23,6 +23,12 @@
   },
   "homepage": "https://github.com/darkbebs/apimysql#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3"
+  },
+  "pkg": {
+    "assets": "./bin/config.json",
+    "scripts": "./bin/*",
+    "scripts": "./src/*"
   }
 }

@@ -1,9 +1,9 @@
 {
   "port": 3000,
     "db": {
-      "server": "ultrapopcentral.clientebig.com.br",
+      "server": "localhost",
       "user": "root",
-      "database": "gerente",
+      "database": "ftudotem",
       "password": "123456big"
     },
   "auth": {
