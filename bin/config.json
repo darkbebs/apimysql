@@ -1,0 +1,13 @@
+{
+  "port": 3000,
+    "db": {
+      "server": "ultrapopcentral.clientebig.com.br",
+      "user": "root",
+      "database": "gerente",
+      "password": "123456big"
+    },
+  "auth": {
+  	"username": "varejointeligente",
+  	"password": "v4r3j01nt3l1g3nt3-135790aA@#"
+  }
+}
